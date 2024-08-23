@@ -74,4 +74,4 @@ while(respuesta == "ok"){
 
 
 alert(`Excelente elegiste tu camino en el desarrollo web en ser desarrollador ${area} 
-y aprender ${lenguaje_framework}, ademaás quires especializarte en las tecnologias: ${tecnologias}. ¡Mucho exito en tu formación!`);
+y aprender ${lenguaje_framework}, además quires especializarte en las tecnologias: ${tecnologias}. ¡Mucho exito en tu formación!`);
